@@ -74,18 +74,6 @@ Ensure you have the following installed on your system:
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to **open an issue** or **submit a pull request**.  
-
 ---
-
-## 📜 License
-This project is **licensed under the MIT License**.
-
----
-
-## 📧 Contact
-For any inquiries or suggestions, feel free to reach out!  
-📌 **GitHub:** [yourusername](https://github.com/yourusername)  
-📌 **Email:** your.email@example.com  
-
 🚀 Happy Coding! 🎉
 
