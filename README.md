@@ -1,7 +1,5 @@
 # 🌐 Simple Chat Application
 
-![Chat App](https://via.placeholder.com/800x300?text=Simple+Chat+Application)
-
 ## 🚀 Overview
 This is a **real-time chat application** built using **Spring Boot** and **WebSockets**. It allows multiple users to communicate instantly **without a database** while maintaining a lightweight architecture.
 
